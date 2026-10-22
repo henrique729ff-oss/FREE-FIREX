@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": { "start": "node server.js" },
   "engines": { "node": ">=18" },
-  "dependencies": {
+  "dependencies": { "@supabase/supabase-js": "^2.57.0,"
     "google-auth-library": "^9.14.0",
     "ws": "^8.18.0"
   }
